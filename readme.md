@@ -1,0 +1,3 @@
+This is a simple readme file. Nothing much to say. This is a git repo which contains all the files and things i used for learning git. I also have My git and github learning notes..which is actually in hinglish. I actually like to keep my docs in hinglish not because of some barrier in english or something..Its simply more easy for me to read and understand it quickly in this manner. Well you guys can take help from it.
+
+I took help from Chai aur Code(Hitesh sir's channel) for understanding git. Here is the link of his video you all can check too, its very helpful..!! LINK: https://youtu.be/q8EevlEpQ2A?si=ehAjXVFU62B9W0if
